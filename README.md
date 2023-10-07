@@ -1,4 +1,4 @@
-# MyDayApp - JavaScript
+# MyDayApp - JavaScript Edit
 
 MyDayApp es una aplicación para gestionar tareas de forma sencilla, fácil y en donde pondrás a pruebas tus conocimientos en JS.
 
